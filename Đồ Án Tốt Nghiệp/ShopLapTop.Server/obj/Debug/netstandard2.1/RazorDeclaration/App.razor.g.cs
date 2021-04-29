@@ -76,6 +76,13 @@ using ShopLapTop.Server.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.Server\_Imports.razor"
+using Radzen.Blazor;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

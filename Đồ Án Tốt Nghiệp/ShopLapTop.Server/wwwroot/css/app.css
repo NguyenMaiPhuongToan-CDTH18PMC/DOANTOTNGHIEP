@@ -116,7 +116,6 @@ app {
 .validation-message {
     color: red;
 }
-
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
@@ -180,4 +179,32 @@ app {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }
+}
+/*add css*/
+.middle-box {
+    margin: auto;
+    margin-top: 150px;
+    width: 450px;
+    padding: 30px;
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 20px;
+}
+.radzen-lable {
+    width: 100px;
+    text-align: right;
+    vertical-align: top;
+    margin-right: 30px;
+}
+.radzen-row{
+    margin: 5px;
+}
+.radzen-textarea{
+    height: 150px;
+    width: 400px;
+}
+.radzen-textbox{
+    width: 400px;
+}
+.radzen-button{
+    margin:5px;
 }

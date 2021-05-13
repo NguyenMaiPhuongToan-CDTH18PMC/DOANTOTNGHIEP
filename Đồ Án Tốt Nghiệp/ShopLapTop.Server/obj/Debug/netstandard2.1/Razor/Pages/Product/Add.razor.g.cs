@@ -79,6 +79,34 @@ using Radzen.Blazor;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.Server\_Imports.razor"
+using Blazored.LocalStorage;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.Server\_Imports.razor"
+using Microsoft.AspNetCore.Components.Authorization;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.Server\_Imports.razor"
+using Microsoft.AspNetCore.Authorization;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.Server\_Imports.razor"
+using ShopLapTop.Server.Pages.Auth;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/Product/Add")]
     public partial class Add : Microsoft.AspNetCore.Components.ComponentBase
     {

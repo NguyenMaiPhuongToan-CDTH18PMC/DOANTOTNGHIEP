@@ -17,3 +17,4 @@ D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.API\obj\Debug
 D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.API\obj\Debug\netcoreapp3.1\ShopLapTop.API.dll
 D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.API\obj\Debug\netcoreapp3.1\ShopLapTop.API.pdb
 D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.API\obj\Debug\netcoreapp3.1\ShopLapTop.API.genruntimeconfig.cache
+D:\DoAnTotNghiep\DOANTOTNGHIEP\Đồ Án Tốt Nghiệp\ShopLapTop.API\obj\Debug\netcoreapp3.1\ShopLapTop.API.csprojAssemblyReference.cache

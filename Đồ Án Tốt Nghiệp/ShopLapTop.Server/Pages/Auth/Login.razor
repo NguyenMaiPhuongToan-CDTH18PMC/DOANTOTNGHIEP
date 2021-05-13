@@ -20,6 +20,13 @@
 @code{
     void GoToHome()
     {
+        //Save local user
+        //var userInfo = new PlannerApp.Client.Models.LocalUserInfo()
+        //{
+        //  Email = result.UserInfo["Email"],      
+        //};
+        //await storageService.SetItemAsync("User", userInfo);
+        //await authenticationStateProvider.GetAuthenticationStateAsync();
         navigationManager.NavigateTo("/");
     }
 }

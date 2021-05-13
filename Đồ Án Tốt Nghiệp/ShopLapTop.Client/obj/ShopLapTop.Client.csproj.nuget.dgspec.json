@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DoAnTotNghiep\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\ShopLapTop.Client.csproj": {}
+    "E:\\Github\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\ShopLapTop.Client.csproj": {}
   },
   "projects": {
-    "D:\\DoAnTotNghiep\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\ShopLapTop.Client.csproj": {
+    "E:\\Github\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\ShopLapTop.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DoAnTotNghiep\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\ShopLapTop.Client.csproj",
+        "projectUniqueName": "E:\\Github\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\ShopLapTop.Client.csproj",
         "projectName": "ShopLapTop.Client",
-        "projectPath": "D:\\DoAnTotNghiep\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\ShopLapTop.Client.csproj",
-        "packagesPath": "C:\\Users\\Kou\\.nuget\\packages\\",
-        "outputPath": "D:\\DoAnTotNghiep\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\obj\\",
+        "projectPath": "E:\\Github\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\ShopLapTop.Client.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kou\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -30,6 +26,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +38,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
@@ -76,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

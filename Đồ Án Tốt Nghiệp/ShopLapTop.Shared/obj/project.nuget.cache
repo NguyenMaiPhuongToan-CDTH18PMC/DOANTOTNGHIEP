@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+vdtjTkkil1qrSrpYINXgSlDQ90vN/4F8LtxW7X6ubN52h9a+eOzCMYwFUC4teytE93DJRxqq6kaqRArb0YMIA==",
+  "dgSpecHash": "TpOirH4ZTiIaWWGGOcRXfFo201/ByUy6LRNoQSxW8WNcAgrQw0O824wdbzX0BRcPhhDjnIN+TE0/622IQN1yJw==",
   "success": true,
-  "projectFilePath": "D:\\DoAnTotNghiep\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Shared\\ShopLapTop.Shared.csproj",
+  "projectFilePath": "E:\\Github\\DOANTOTNGHIEP\\Đồ Án Tốt Nghiệp\\ShopLapTop.Shared\\ShopLapTop.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kou\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Kou\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
